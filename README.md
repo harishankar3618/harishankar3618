@@ -34,6 +34,8 @@ I'm currently pursuing my Bachelor's Degree with honors in Computer Science and 
 
 
 ## 📚 Certifications
+- Certificate of Achievement for C3SA Premium Edition, awarded by Cyber War Labs
+- Certificate of Merit for second place in a CTF competition at a hackers meetup at Parul University
 - CYFOEDU: Cyber Forensic and Ethical Hacking
 - OPSWAT: Introduction to Critical Infrastructure Protection (ICIP)
 - EC-Council: Ethical Hacking Essentials
