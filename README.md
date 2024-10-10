@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm currently pursuing my Bachelor's Degree with honors in Computer Science and Engineering, specializing in Cyber Security at Parul University, Vadodara. With a solid foundation in various programming languages and cyber security tools, I'm passionate about exploring and learning new technologies.
+I am a 3rd-year B.Tech student specializing in Cyber Security at Parul University, passionate about penetration testing and network security. I aim to apply my skills to contribute to innovative solutions in the cybersecurity field.
 
 - 🌍 Location: Ongole, India
 - 📧 Email: harishankar3618@gmail.com
