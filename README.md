@@ -1,7 +1,5 @@
 # Hi there, I'm Hari Shankar! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=harishankar3618&color=blue)
-
 ## 🚀 About Me
 
 I am a 3rd-year B.Tech student specializing in Cyber Security at Parul University, passionate about penetration testing and network security. I aim to apply my skills to contribute to innovative solutions in the cybersecurity field.
