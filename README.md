@@ -11,13 +11,13 @@ I'm currently pursuing my Bachelor's Degree with honors in Computer Science and 
 - 📞 Phone: +91 6352572587
 
 ## 🛠 Skills
--Programming languages: Python, Java, C, and SQL
--Operating Systems: Windows, Linux, macOS
--Security frameworks: Nmap, Nessus, Metasploit
--Cloud platforms: AWS
--Vulnerability scanners: Nessus, Burp Suite
--Security Concepts: Encryption algorithms (like AES, RSA), Network Security, Web Application Security,
--Vulnerability Assessment and Penetration Testing (VAPT)
+- Programming languages: Python, Java, C, and SQL
+- Operating Systems: Windows, Linux, macOS
+- Security frameworks: Nmap, Nessus, Metasploit
+- Cloud platforms: AWS
+- Vulnerability scanners: Nessus, Burp Suite
+- Security Concepts: Encryption algorithms (like AES, RSA), Network Security, Web Application Security,
+- Vulnerability Assessment and Penetration Testing (VAPT)
 
 ## 📚 Certifications
 - Certificate of Achievement for C3SA Premium Edition, awarded by Cyber War Labs
