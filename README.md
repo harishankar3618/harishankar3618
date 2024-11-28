@@ -18,14 +18,23 @@ I am a 3rd-year B.Tech student specializing in Cyber Security at Parul Universit
 - Vulnerability Assessment and Penetration Testing (VAPT)
 
 ## 📚 Certifications
-- Certificate of Achievement for C3SA Premium Edition, awarded by Cyber War Labs
-- Certificate of Merit for second place in a CTF competition at a hackers meetup at Parul University
-- CYFOEDU: Cyber Forensic and Ethical Hacking
-- OPSWAT: Introduction to Critical Infrastructure Protection (ICIP)
-- EC-Council: Ethical Hacking Essentials
-- Security Blue Team: Introduction to Python
-- Security Blue Team: Introduction to OSINT
-- Kali Linux certification from Chegg
+-Cyber Forensic and Ethical Hacking - Cyfoedu
+-Introduction to Critical Infrastructure Protection - OPSWAT
+-Ethical Hacking Essentials (EHE) - EC-Council
+-Introduction to Python - Security Blue Team
+-Introduction to OSINT - Security Blue Team
+-Introduction to Cybersecurity Badge - Cisco
+-Cybersecurity Fundamentals Badge - IBM SkillsBuild
+-Third place in CTF HackArise - The Hackers Meetup x Parul University
+-Cybersecurity Workshop and CTF Completion - Cyber Unbound
+-C3SA Premium Edition - Cyber War Labs
+-Cybersecurity Skilling Course - Tech Mahindra Foundation x Skill India
+-Getting Started with AWS Cloud Essentials - AWS
+-Ethical Hacking - Skill India | NSDC (Scholiverse Educare Pvt. Ltd.)
+-Brainic Soft Skills Workshop - Brainic
+-Ethical Hacking Training - Internshala Trainings
+-Attacking the Cloud with RedCloud OS - CyberWarFare Labs
+-Kali Linux - Skills Chegg
 
 ### Projects
 - Caesar cipher encryption and decryption tool
