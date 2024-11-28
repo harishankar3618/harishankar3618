@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a 3rd-year B.Tech student specializing in Cyber Security at Parul University, passionate about penetration testing and network security. I aim to apply my skills to contribute to innovative solutions in the cybersecurity field.
+I am a third-year Computer Science Engineering student specializing in Cybersecurity, with over two years of hands-on experience in ethical hacking and penetration testing. Skilled in tools like Burp Suite, Metasploit, and Nmap, I’ve earned certifications in Ethical Hacking and Kali Linux. Currently, I am expanding my knowledge in Malware Analysis and MEAN Stack Web Development. I aim to apply my skills in a real-world cybersecurity role.
 
 - 🌍 Location: Ongole, India
 - 📧 Email: harishankar3618@gmail.com
