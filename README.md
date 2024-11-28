@@ -9,13 +9,14 @@ I am a 3rd-year B.Tech student specializing in Cyber Security at Parul Universit
 - 📞 Phone: +91 7330920531
 
 ## 🛠 Skills
-- Programming languages: Python, Java, C, and SQL
-- Operating Systems: Windows, Linux, macOS
-- Security frameworks: Nmap, Nessus, Metasploit
-- Cloud platforms: AWS
-- Vulnerability scanners: Nessus, Burp Suite
-- Security Concepts: Encryption algorithms (like AES, RSA), Network Security, Web Application Security,
-- Vulnerability Assessment and Penetration Testing (VAPT)
+### Programming languages: 
+- Python, Java, C, SQL, HTML and CSS
+### Operating Systems:
+- Windows, Kali Linux, RedCloud OS, ubuntu, parrot os, pop os
+### Cyber security concepts:
+- Real-time Malware Detection,Network Security,Penetration Testing,Vulnerability Assessment,Web Application Security,Encryption Algorithms,Incident Response,Risk Management,Security Monitoring
+### Tools:
+- Nmap, Nessus, Metasploit,	Burp Suite, Wireshark, Aircrack-ng,	John the ripper, OSWAP ZAP, Hydra, Hashcat, aws, sqlmap, Crunch, Ettercap, Beef-Xss
 
 ## 📚 Certifications
 - [Cyber Forensic and Ethical Hacking - Cyfoedu](https://drive.google.com/file/d/1E4kyQn6u441NfffMPsea9hO8gjXVNQrj/view?usp=sharing)
