@@ -36,12 +36,24 @@ I am a third-year Computer Science Engineering student specializing in Cybersecu
 - [Ethical Hacking Training - Internshala Trainings](https://drive.google.com/file/d/13A12hc9EYDDERwYr4LCQfU-k-_W9wnPI/view?usp=sharing)
 - [Attacking the Cloud with RedCloud OS" session - CyberWarFare Labs](https://drive.google.com/file/d/1CWZv2P-tJE2DJp-Pu2fP55DFb2xkkog8/view?usp=sharing)
 - [Kali Linux - Skills Chegg](https://drive.google.com/file/d/1jbiJP-qMi0Y_GKpo0i0Eugx74tXCIFyl/view?usp=sharing)
+- [Google Cloud Cybersecurity Professional Certificate – Google Cloud](https://drive.google.com/file/d/1vt76ZyXx1TGZAJgYhP_9IIIZBWY7yWO6/view?usp=sharing)
+- [Cyber Security Training Program – SkillVertex](https://drive.google.com/file/d/1t5McH-0qkIDJ72Wa_S8870fRL75MkY3_/view?usp=sharing)
 
 ### Projects
-- Caesar cipher encryption and decryption tool
-- Image encryption and decryption tool
-- Packet sniffer
-- Password strength checker
+
+- Antivirus Malware Scanner (In Progress):Developing a comprehensive Windows-based malware scanner to detect and mitigate threats effectively.
+
+- Phishing Mail Detector Browser Extension (In Progress):Building a browser extension to identify phishing attempts and safeguard users from malicious emails.
+
+- RansomWatch.Online:Developed a signature-based online malware scanner to detect malicious files efficiently.
+
+- Caesar Cipher Encryption Tool:Designed and implemented a tool for secure message encryption and decryption using the Caesar cipher technique.
+
+- Image Encryption Tool:Built a tool leveraging pixel manipulation to ensure the security and confidentiality of image data.
+
+- Password Strength Analyzer:Developed a tool to evaluate and improve password complexity and strength for better security practices.
+
+- Network Packet Monitoring Tool:Created a tool for capturing and analyzing network traffic to detect anomalies and secure digital environments.
 
 ## 📫 How to reach me
 - LinkedIn: [Hari Shankar](https://www.linkedin.com/in/harishankar)
