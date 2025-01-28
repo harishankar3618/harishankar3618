@@ -18,6 +18,22 @@ I am a third-year Computer Science Engineering student specializing in Cybersecu
 - ### Tools:
    Nmap, Nessus, Metasploit,	Burp Suite, Wireshark, Aircrack-ng,	John the ripper, OSWAP ZAP, Hydra, Hashcat, aws, sqlmap, Crunch, Ettercap, Beef-Xss
 
+## 💼 Experience
+### **Cybersecurity Intern | Tinkering Hub, Parul University**  
+*December 2024 – Present*
+- Gaining hands-on experience in cybersecurity through real-world projects and collaboration with industry professionals.
+- Working on malware analysis, penetration testing, and security monitoring for a variety of platforms.
+
+### **Cyber Security Internship | SkillVertex**  
+*December 2024 – January 2025*
+- Completed a project-led internship focusing on key areas such as:
+  - **Network Security**: Implemented secure network practices and protocols.
+  - **Cryptography**: Gained in-depth knowledge of cryptographic algorithms and their practical applications.
+  - **Threat Analysis**: Performed thorough analysis of potential cyber threats and mitigations.
+  - **Risk Management**: Developed risk assessment strategies to identify vulnerabilities and mitigate them.
+- The internship involved both theoretical knowledge and hands-on practical application, solving real-world cybersecurity problems.
+
+
 ## 📚 Certifications
 - [Cyber Forensic and Ethical Hacking - Cyfoedu](https://drive.google.com/file/d/1E4kyQn6u441NfffMPsea9hO8gjXVNQrj/view?usp=sharing)
 - [Introduction to Critical Infrastructure Protection - OPSWAT](https://drive.google.com/file/d/1yg-1ykn-RxxesM6lR17aVV-jvYDoWMGb/view?usp=sharing)
