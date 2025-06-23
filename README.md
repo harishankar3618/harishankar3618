@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 
-I'm a third-year Computer Science Engineering student specializing in Cybersecurity, with over two years of hands-on experience in ethical hacking and penetration testing. I wield security tools like Burp Suite, Metasploit, and Nmap like a cybersecurity ninja. Certified in Ethical Hacking and Kali Linux, I'm currently diving deep into Malware Analysis and Security Monitoring—because what’s life without a little digital chaos?
+I'm a Fourth-year Computer Science Engineering student specializing in Cybersecurity, with over two years of hands-on experience in ethical hacking and penetration testing. I wield security tools like Burp Suite, Metasploit, and Nmap like a cybersecurity ninja. Certified in Ethical Hacking and Kali Linux, I'm currently diving deep into Malware Analysis and Security Monitoring—because what’s life without a little digital chaos?
 
 When I’m not poking at vulnerabilities, I’m probably convincing my friends that "password123" is not an acceptable security practice. 😂🔐 If you’ve ever used "admin" as your password, I offer free cybersecurity interventions. 
 
